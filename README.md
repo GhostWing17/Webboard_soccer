@@ -1,6 +1,7 @@
 # Webdashboard_test
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=%20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Game%20Fantastic!&fontSize=60&rotate=20&height=300&fontAlign=70&fontAlignY=30)
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Ghost_wing)](https://solved.ac/Ghost_Wing)<br/>
 
