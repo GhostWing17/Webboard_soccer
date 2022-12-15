@@ -16,9 +16,8 @@
 EPL 순위 링크 : https://www.premierleague.com/tables
 
  
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost&theme=dark)] (https://ghostwing17.tistory.com/))
-
-
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost&theme=dark)](https://ghostwing17.tistory.com/)
+ 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white">
