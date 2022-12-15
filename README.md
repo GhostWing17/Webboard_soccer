@@ -9,7 +9,7 @@
  
 ![wp3342655](https://user-images.githubusercontent.com/120348491/207763671-f5868674-258a-470e-90e4-39c5386f1fc5.jpg)
  
-<img src = "https://user-images.githubusercontent.com/120348491/207764654-f431d70f-c17d-4744-b379-31c5058860ec.gif" width="60%" height="50%">
+<img src = "https://user-images.githubusercontent.com/120348491/207764654-f431d70f-c17d-4744-b379-31c5058860ec.gif" width="40%" height="40%">
  
  
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
