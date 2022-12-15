@@ -35,7 +35,7 @@ EPL 순위 링크 : https://www.premierleague.com/tables
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostwing17&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostblack17&show_icons=true&theme=tokyonight)
  
 </div>
 
