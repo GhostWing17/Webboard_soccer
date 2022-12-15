@@ -1,3 +1,5 @@
+<div align="center">
+
 # Webdashboard_Premier League
 
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Premier%20League&fontSize=60&rotate=20&height=300&fontAlign=70&fontAlignY=30)
@@ -18,3 +20,5 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+</div>
