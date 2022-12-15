@@ -5,10 +5,6 @@
 ![wp3342655](https://user-images.githubusercontent.com/120348491/207763671-f5868674-258a-470e-90e4-39c5386f1fc5.jpg)
 
 
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Ghost_wing)](https://solved.ac/Ghost_Wing)<br/>
-
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
  <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white">
