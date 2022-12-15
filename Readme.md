@@ -18,6 +18,8 @@ EPL 순위 링크 : https://www.premierleague.com/tables
  
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -28,9 +30,9 @@ EPL 순위 링크 : https://www.premierleague.com/tables
  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostwing17&show_icons=true&theme=tokyonight)
