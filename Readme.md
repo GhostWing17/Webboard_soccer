@@ -1,9 +1,6 @@
 <div align="center">
 
- 
-# Webdashboard_Premier League
- 
-![header](https://capsule-render.vercel.app/api?type=slice&text=Premier%20League&fontSize=60&rotate=20&height=300&fontAlign=70&fontAlignY=30)
+ ![header](https://capsule-render.vercel.app/api?type=slice&text=Premier%20League&fontSize=60&rotate=20&height=300&fontAlign=70&fontAlignY=30)
 
  
 ![wp3342655](https://user-images.githubusercontent.com/120348491/207763671-f5868674-258a-470e-90e4-39c5386f1fc5.jpg)
