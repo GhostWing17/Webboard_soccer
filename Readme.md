@@ -3,14 +3,19 @@
  ![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=60&rotate=20&height=300&fontAlign=70&fontAlignY=30)
 
  
-![wp3342655](https://user-images.githubusercontent.com/120348491/207763671-f5868674-258a-470e-90e4-39c5386f1fc5.jpg)
+![gh-index-gamingconsoles-052-print-preview-1659705142](https://user-images.githubusercontent.com/120348491/208377574-6894cd65-bfe0-4539-bb1f-86471256e2fc.jpg)
+
  
 <img src ="https://user-images.githubusercontent.com/120348491/207764654-f431d70f-c17d-4744-b379-31c5058860ec.gif" width="30%" height="30%">
 <img src= "https://user-images.githubusercontent.com/120348491/207765907-64ade5d0-fbe2-4016-b8a8-521ddded9139.gif" width="30%" height="30%">
 <img src ="https://user-images.githubusercontent.com/120348491/207767364-7f9c18e6-872e-483f-b1ba-2e14192780e1.gif" width="30%" height="30%">
  
 
-EPL 순위 링크 : https://www.premierleague.com/tables
+Playstation Store 링크 : https://store.playstation.com/ko-kr/
+ 
+Nintendo Store 링크 : https://store.nintendo.co.kr/
+ 
+Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
 
  
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
