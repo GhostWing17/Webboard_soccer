@@ -4,11 +4,6 @@
 
  
 ![gh-index-gamingconsoles-052-print-preview-1659705142](https://user-images.githubusercontent.com/120348491/208377574-6894cd65-bfe0-4539-bb1f-86471256e2fc.jpg)
-
- 
-<img src ="https://user-images.githubusercontent.com/120348491/207764654-f431d70f-c17d-4744-b379-31c5058860ec.gif" width="30%" height="30%">
-<img src= "https://user-images.githubusercontent.com/120348491/207765907-64ade5d0-fbe2-4016-b8a8-521ddded9139.gif" width="30%" height="30%">
-<img src ="https://user-images.githubusercontent.com/120348491/207767364-7f9c18e6-872e-483f-b1ba-2e14192780e1.gif" width="30%" height="30%">
  
 
 Playstation Store 링크 : https://store.playstation.com/ko-kr/
