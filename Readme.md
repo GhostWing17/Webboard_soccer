@@ -28,7 +28,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostblack17&show_icons=true&theme=tokyonight)
 
-데이터 참고 : https://fbref.com/en
+데이터 참고 : https://fbref.com/en, kaggle
  
 </div>
 
