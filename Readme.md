@@ -1,16 +1,10 @@
 <div align="center">
 
- ![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=60&rotate=20&height=300&fontAlign=70&fontAlignY=30)
+ ![header](https://capsule-render.vercel.app/api?type=slice&text=Premier%20League!&fontSize=60&rotate=20&height=300&fontAlign=70&fontAlignY=30)
 
  
 ![gh-index-gamingconsoles-052-print-preview-1659705142](https://user-images.githubusercontent.com/120348491/208377574-6894cd65-bfe0-4539-bb1f-86471256e2fc.jpg)
  
-
-Playstation Store 링크 : https://store.playstation.com/ko-kr/
- 
-Nintendo Store 링크 : https://store.nintendo.co.kr/
- 
-Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
 
  
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
@@ -33,6 +27,8 @@ Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostblack17&show_icons=true&theme=tokyonight)
+
+데이터 참고 : https://fbref.com/en
  
 </div>
 
